@@ -1,1 +1,0 @@
-Monii is a simple text based incremental game, featuring various things to buy with the money, to get MORE money! These things range from the accountant, to the glorious hamburger, because WHY NOT?! This game is largely built off intrusive thoughts, I won't lie. 
